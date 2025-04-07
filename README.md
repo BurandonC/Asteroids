@@ -48,3 +48,11 @@ Pygame
 ```bash
 pip install pygame
 ```
+
+# 📜 License
+```bash
+This project is open-source and available under the MIT License.
+```
+
+# 🙌 Credits
+Created by [BurandonC](https://github.com/BurandonC)
