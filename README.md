@@ -18,4 +18,33 @@ git clone https://github.com/BurandonC/Asteroids.git
 cd Asteroids
 ```
 
+```bash
 pip install -r requirements.txt
+```
+
+#🚀 Running the Game
+```bash
+python main.py
+```
+
+#📁 File Structure
+```bash
+Asteroids/
+├── asteroid.py     # Handles asteroid behavior
+├── player.py       # Player spaceship logic
+├── shot.py         # Bullet mechanics
+├── main.py         # Main game loop and logic
+├── requirements.txt
+└── README.md
+```
+
+#❗ Dependencies
+```bash
+Python 3.x
+
+Pygame
+```
+## Install via:
+```bash
+pip install pygame
+```
