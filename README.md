@@ -22,12 +22,12 @@ cd Asteroids
 pip install -r requirements.txt
 ```
 
-#🚀 Running the Game
+# 🚀 Running the Game
 ```bash
 python main.py
 ```
 
-#📁 File Structure
+# 📁 File Structure
 ```bash
 Asteroids/
 ├── asteroid.py     # Handles asteroid behavior
